@@ -1,1 +1,1 @@
-![Demo](video/GuessTheFlag_demo.mov)
+![Demo](video/GuessTheFlag_demo.gif)
